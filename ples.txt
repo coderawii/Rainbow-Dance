@@ -2,3 +2,4 @@ Ovo je kao neki tekst.
 Cisto da ima nesto.
 Da se kaze.
 I ovo cemo preko terminala da ubacimo na nas github u projekat Rainbow-Song.
+Pushovah ovo i sad kao unosim neku promenu.
